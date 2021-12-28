@@ -7,13 +7,14 @@
 - ⚡ Fun fact: My hobbies are playing guitar🎸, watching KungFu movies🎬 and learning languages📖.  
 
 ##
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&theme=dark)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&theme=dark)
 
 
 ##
   <div>
 <div style="display: inline_block">
-  <a href= "#"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href= "#">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nodejs" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,9 +26,6 @@
   <img align="center" alt="ubuntu" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="git" height="40" width="40" img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
                                                                                                                                                
-                                                                                                                                                 
-                                                                                                                                           
-
   </a>
 </div>
 
