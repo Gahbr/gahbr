@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark" />
 </a>
 <a href="#">
-  <img align="center" height= "400px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&layout=compact&theme=dark" />
+  <img align="center" height= "200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&layout=compact&theme=dark" />
 </a>
 
 ## Connect with me  
