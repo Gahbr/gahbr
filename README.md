@@ -1,3 +1,4 @@
+
 ### Hello there 👋
 
 
@@ -7,26 +8,70 @@
 - 💻 Coding Challenges Websites: <a href="https://www.beecrowd.com.br/judge/pt/profile/596401" target="_blank" >Beecrowd</a>, <a href="https://www.hackerrank.com/Gahbr" target="_blank" >HackerRank</a>
 - ⚡ Fun fact: My hobbies are playing guitar🎸, watching KungFu movies🎬 and learning languages📖.  
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+  
 
-##
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Other tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" alt="windows" height="50"/>
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" height="50" />    
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+## Github Stats
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&theme=dark)
 
-
-##
-  <div>
-<div style="display: inline_block">
-  <a href= "#">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nodejs" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="40" width="40" img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
-  <img align="center" alt="PHP" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="mysql" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  <img align="center" alt="windows" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> 
-  <img align="center" alt="ubuntu" height="40" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="git" height="40" width="40" img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-                                                                                                                                               
-  </a>
-</div>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Gahbr" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+  
+<a href="https://linkedin.com/in/gabriellribeiro1" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+ <a href="mailto:gabriell.ribeiro@yahoo.com" target="_blank">
+<img src=https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a>  
+  
+  <a href="https://gahbr.github.io/Curriculum-vitae/" target="_blank">
+<img src=https://img.shields.io/badge/-My%20Resume-orange alt=email style="height: 28px;" />
+</a>  
+    
+  <a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg style="height: 28px;" />
+</a>  
+</div>  
 
