@@ -1,5 +1,5 @@
 
-### Hello there 👋
+## Hello there 👋
 
 
 - 👺 Hallo, wie geht's? My Name is Gabriel, I have a bachelor's degree in C.S. and I am from <img align="center" height="20" width="25" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png">.
@@ -47,11 +47,15 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
+ 
 
 ## Github Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&theme=dark)
+<a href="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark" />
+</a>
+<a href="#">
+  <img align="center" height= "200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&layout=compact&theme=dark" />
+</a>
 
 ## Connect with me  
 <div align="center">
