@@ -1,5 +1,5 @@
 
-## Hello there 👋
+## Greetings 👋
 
 
 - 👺 Hallo, wie geht's? My Name is Gabriel, I have a bachelor's degree in C.S. and I am from <img align="center" height="20" width="25" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png">.
@@ -28,7 +28,7 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
