@@ -52,7 +52,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark" />
 </a>
-<a href="#">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&layout=compact&theme=dark">
  <img align="center" height= "200px" width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&layout=compact&theme=dark" />
 </a>
 
