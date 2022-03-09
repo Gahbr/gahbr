@@ -49,13 +49,12 @@
  
 
 ## Github Stats
-<a href="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&layout=compact&theme=dark">
- <img align="center" height= "200px" width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahbr&layout=compact&theme=dark" />
-</a>
-
+<div>
+  <a href="https://github.com/gahbr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gahbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gahbr&layout=compact&langs_count=6&theme=dark"/>
+</div>
+  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Gahbr" target="_blank">
