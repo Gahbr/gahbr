@@ -83,7 +83,7 @@
 <img src=https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>  
   
-  <a href="https://gahbr.github.io/Curriculum-vitae/" target="_blank">
+  <a href="https://docs.google.com/gview?url=https://github.com/Gahbr/Curriculum-vitae/raw/main/CV_Gabriel_Ribeiro_PT.pdf&embedded=true" target="_blank">
 <img src=https://img.shields.io/badge/-My%20Resume-orange alt=email style="height: 28px;" />
 </a>  
     
