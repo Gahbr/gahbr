@@ -83,13 +83,11 @@
  <a href="mailto:gabriell.ribeiro@yahoo.com" target="_blank">
 <img src=https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.duolingo.com/profile/Lokfar" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
   
   <a href="https://docs.google.com/gview?url=https://github.com/Gahbr/Curriculum-vitae/raw/main/CV_Gabriel_Ribeiro_PT.pdf&embedded=true" target="_blank">
 <img src=https://img.shields.io/badge/-My%20Resume-orange alt=email style="height: 28px;" />
 </a>  
     
-  <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg style="height: 28px;" />
-</a>  
 </div>  
 
