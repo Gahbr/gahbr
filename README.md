@@ -68,22 +68,21 @@
 ## Connect with me  
 <div align="center">
   
-<a href="https://gahbr.github.io/Portfolio-React/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
-  
-  
-<a href="https://github.com/Gahbr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://linkedin.com/in/gabriellribeiro1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
- <a href="mailto:gabriell.ribeiro@yahoo.com" target="_blank">
-<img src=https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.duolingo.com/profile/Lokfar" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
+  <a href="https://gahbr.github.io/Portfolio-React/" target="_blank">
+    <img src=https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/Gahbr" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+    <a href="https://www.hackerrank.com/Gahbr?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://linkedin.com/in/gabriellribeiro1" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+  <a href="mailto:gabriell.ribeiro@yahoo.com" target="_blank">
+    <img src=https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white alt=email style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://www.duolingo.com/profile/Lokfar" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
+
   
   <a href="https://docs.google.com/gview?url=https://github.com/Gahbr/Curriculum-vitae/raw/main/CV_Gabriel_Ribeiro_PT.pdf&embedded=true" target="_blank">
 <img src=https://img.shields.io/badge/-My%20Resume-orange alt=email style="height: 28px;" />
