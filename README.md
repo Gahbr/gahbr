@@ -94,7 +94,7 @@
 
   
   <a href="https://docs.google.com/gview?url=https://github.com/Gahbr/Curriculum-vitae/raw/main/CV_Gabriel_Ribeiro_PT.pdf&embedded=true" target="_blank">
-<img src=https://img.shields.io/badge/-My%20Resume-orange alt=email style="height: 28px;" />
+<img src=https://img.shields.io/badge/-Curriculum%20Vitæ-orange alt=email style="height: 28px;" />
 </a>  
     
 </div>  
