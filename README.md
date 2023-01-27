@@ -1,6 +1,5 @@
 
-## Welcome to my Github Profile 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Welcome+to+my+Profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👺 Hallo, wie geht's? My Name is Gabriel, I have a bachelor's degree in C.S. and I am from <img align="center" height="20" width="25" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png">.
 - 🌱	 My main objective is to specialize in Software Engineering. I'm looking for an opportunity to work in an environment where I can constantly learn and enhance my skills in software development.
