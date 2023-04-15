@@ -37,7 +37,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="java" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springboot" height="45" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.JS" height="60" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
@@ -91,11 +92,11 @@
     <img src=https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white alt=email style="margin-bottom: 5px;" />
   </a>  
   <a href="https://www.duolingo.com/profile/Lokfar" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
-
   
   <a href="https://docs.google.com/gview?url=https://github.com/Gahbr/Curriculum-vitae/raw/main/CV_Gabriel_Ribeiro_PT.pdf&embedded=true" target="_blank">
 <img src=https://img.shields.io/badge/-Curriculum%20Vitæ-orange alt=email style="height: 28px;" />
 </a>  
-    
+ 
+  <img src="https://komarev.com/ghpvc/?username=Gahbr&&style=for-the-badge"  />
 </div>  
 
