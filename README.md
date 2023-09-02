@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1500&color=299561&width=600&height=70&lines=Welcome+to+my+Profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👺 Hallo, wie geht's? My Name is Gabriel, I have a bachelor's degree in C.S. and I am from <img align="center" height="20" width="25" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png">.
-- 🌱	I'm a Software Engineer at [SysMap Solutions](https://www.naturaeco.com) | [Natura &Co](https://www.naturaeco.com)
+- 🌱	I'm a Software Engineer at [Natura &Co](https://www.naturaeco.com)
 - 📫 How to reach me: 
 <a href="https://gahbr-portfolio.netlify.app/"><img src="https://user-images.githubusercontent.com/80289718/166115126-c59f0c61-3713-42a7-b1c0-2b4b09d881a1.png" target="_blank"  height ="20" width="24"></a> 
 <a href="mailto:gabriell.ribeiro@yahoo.com" target="_blank"><img src="https://www.nicepng.com/png/full/136-1368647_mailicon-transparent-background-white-email-png.png" target="_blank"  height ="20" width="20"></a> <a href="https://gahbr.github.io/Curriculum-vitae/" target="_blank"><img src="https://www.clipartmax.com/png/middle/316-3160442_cv-png-png-free-cv-icon.png" target="_blank"  height ="20" width="20"></a> <a href="https://www.linkedin.com/in/gabriellribeiro1/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"  height ="20" width="20"></a> 
@@ -75,7 +75,7 @@
 ## Connect with me  
 <div align="center">
   
-  <a href="https://gahbr-portfolio.netlify.app/" target="_blank">
+  <a href="https://gahbr.netlify.app/" target="_blank">
     <img src=https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/Gahbr" target="_blank">
