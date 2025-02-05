@@ -6,7 +6,7 @@
 <a href="https://gahbr-portfolio.netlify.app/"><img src="https://user-images.githubusercontent.com/80289718/166115126-c59f0c61-3713-42a7-b1c0-2b4b09d881a1.png" target="_blank"  height ="20" width="24"></a> 
 <a href="mailto:gabriell.ribeiro@yahoo.com" target="_blank"><img src="https://www.nicepng.com/png/full/136-1368647_mailicon-transparent-background-white-email-png.png" target="_blank"  height ="20" width="20"></a> <a href="https://gahbr.github.io/Curriculum-vitae/" target="_blank"><img src="https://www.clipartmax.com/png/middle/316-3160442_cv-png-png-free-cv-icon.png" target="_blank"  height ="20" width="20"></a> <a href="https://www.linkedin.com/in/gabriellribeiro1/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"  height ="20" width="20"></a> 
 - 💻 Coding Challenges Websites: <a href="https://www.beecrowd.com.br/judge/pt/profile/596401" target="_blank" >Beecrowd</a>, <a href="https://www.hackerrank.com/Gahbr" target="_blank" >HackerRank</a>, <a href="https://www.dio.me/en/users/gabriell_ribeiro" target="_blank" >DIO</a> 
-- ⚡ Fun fact: I enjoy playing guitar 🎸, watching Kung Fu movies 🎬, learning languages 📖, and training MMA 🥋🥊.  
+- ⚡ Fun fact: I enjoy playing guitar 🎸, watching Kung Fu movies 🎬, learning languages 📖 and training MMA 🥋🥊.  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
