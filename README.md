@@ -6,7 +6,7 @@
 <a href="https://gahbr-portfolio.netlify.app/"><img src="https://user-images.githubusercontent.com/80289718/166115126-c59f0c61-3713-42a7-b1c0-2b4b09d881a1.png" target="_blank"  height ="20" width="24"></a> 
 <a href="mailto:gabriell.ribeiro@yahoo.com" target="_blank"><img src="https://www.nicepng.com/png/full/136-1368647_mailicon-transparent-background-white-email-png.png" target="_blank"  height ="20" width="20"></a> <a href="https://gahbr.github.io/Curriculum-vitae/" target="_blank"><img src="https://www.clipartmax.com/png/middle/316-3160442_cv-png-png-free-cv-icon.png" target="_blank"  height ="20" width="20"></a> <a href="https://www.linkedin.com/in/gabriellribeiro1/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"  height ="20" width="20"></a> 
 - 💻 Coding Challenges Websites: <a href="https://www.beecrowd.com.br/judge/pt/profile/596401" target="_blank" >Beecrowd</a>, <a href="https://www.hackerrank.com/Gahbr" target="_blank" >HackerRank</a>, <a href="https://www.dio.me/en/users/gabriell_ribeiro" target="_blank" >DIO</a> 
-- ⚡ Fun fact: My hobbies are playing guitar🎸, watching KungFu movies🎬 and learning languages📖.  
+- ⚡ Fun fact: I enjoy playing guitar 🎸, watching Kung Fu movies 🎬, learning languages 📖, and training MMA 🥋🥊.  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -38,10 +38,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="java" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="springboot" height="45" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />
-<img style="margin: 10px" src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="Express.JS" height="60" /> 
+<img style="margin: 10px" src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="Express.JS" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="40" /> 
+  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
 </div>
@@ -60,6 +62,8 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" height="50" /> 
 <img style="margin: 10px" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A" alt="jwt" height="50" /> 
 <img style="margin: 10px" src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" alt="jwt" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="aws" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="aws" height="50" /> 
 </div>
 
 </td></tr></table>  
